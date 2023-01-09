@@ -27,15 +27,15 @@ nav>li>a {
 }
 
 .navbar-brand h1 {
-	font-family :'Lora', serif;
-	color: #557c3e;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	font-weight: bold;
-	text-shadow: 1px 1px 1px #222;
-	border-top: 0;
-	border-bottom: 0px;
-	line-height: .75;
+    font-family: 'Lora', serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    border-top: 0;
+    border-bottom: 0px;
+    line-height: .75;
 
 }
 .navbar-brand {
