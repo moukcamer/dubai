@@ -4,6 +4,12 @@ body{
     color: #fff;
      background-color: #61122F;
 }
+#logo-img {
+    background: url('../images/logo.jpg no-repeat);
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px 5px 0;
+  }
 /**HEADER**/
 #header-nav {
 	background-color: #f6b319;
